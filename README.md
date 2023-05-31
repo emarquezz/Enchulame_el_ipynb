@@ -35,7 +35,7 @@ cutipy_nb(file, colors=colors, save=True)
  
 
 ## Customization
-You can customize the colors used for different levels of markdown titles by modifying the colors argument when calling the cutiepy_nb function.
+You can customize the colors used for different levels of markdown titles by modifying the colors argument when calling the cutipy_nb function.
 
 ## Contributing
 Contributions are welcome! Please feel free to open an issue or submit a pull request.
