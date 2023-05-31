@@ -39,4 +39,3 @@ You can customize the colors used for different levels of markdown titles by mod
 
 ## Contributing
 Contributions are welcome! Please feel free to open an issue or submit a pull request.
-Is there anything else you would like to include in the README?
