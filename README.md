@@ -24,11 +24,11 @@ sns_palette = 'gnuplot'
 colors = sns.color_palette(sns_palette, 4).as_hex()
 ```
 
-2. Run the `cutiepy_nb` function with the path to your notebook and the desired colors as arguments:
+2. Run the `cutipy_nb` function with the path to your notebook and the desired colors as arguments:
 
 ```python
 file = '/path/to/notebook.ipynb'
-cutiepy_nb(file, colors=colors, save=True)
+cutipy_nb(file, colors=colors, save=True)
 ```
 
  3. A new, pretty version of your notebook will be created in the same directory with the original name + the word 'chulo'.
