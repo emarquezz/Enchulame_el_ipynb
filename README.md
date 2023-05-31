@@ -1,4 +1,4 @@
-# Enchulame_el_ipynb
+# Enchúlame_el_ipynb
 
 Make your Jupyter notebooks pretty with custom colors and a table of contents.
 
