@@ -201,7 +201,7 @@ def save_doc_enchulado(doc_chulo, file):
     print('Saved as ',name_chulo)
     
 
-def cutiepy_nb(file, sns_palette=None, colors=None, save=True):
+def cutipy_nb(file, sns_palette=None, colors=None, save=True):
     doc_chulo = enchular_ipynb(file, sns_palette, colors)
     if save:
         save_doc_enchulado(doc_chulo, file)
